@@ -2,13 +2,13 @@
   git remote -
   git remote -v
   git push master
-   66  git remote set-url origin https://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/github.com/Vaibhav-Singh21/github-for-devops.git
+   66  git remote set-url origin 
    67  git remote -v
    68  git push origin master
    69  lear
    70  clear
    71  git remote -v
-   72  git remote set-url origin https://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@github.com/Vaibhav-Singh21/github-for-devops.git
+   72  git remote set-url origin 
    73  git remote -v
    74  git push origin master
    75  history
