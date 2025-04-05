@@ -11,7 +11,7 @@ git push origin master
    git remote -
    git remote -v
    git push master
-   git remote set-url origin https:///github.com/Vaibhav-Singh21/github-for-devops.git
+   git remote set-url origin https://github.com/Vaibhav-Singh21/github-for-devops.git
    git remote -v
    git push origin master
 
