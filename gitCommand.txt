@@ -17,3 +17,4 @@ git push origin master
 
    git rebase is very complicated Need to master it
 
+also learn how to pull from Github as well
