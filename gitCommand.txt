@@ -1,0 +1,7 @@
+ git remote add origin https://github.com/Vaibhav-Singh21/github-for-devops.git
+   63  git remote -
+   64  git remote -v
+   65  git push master
+   66  git remote set-url origin https:///github.com/Vaibhav-Singh21/github-for-devops.git
+   67  git remote -v
+   68  git push origin master
