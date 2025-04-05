@@ -15,3 +15,5 @@ git push origin master
    git remote -v
    git push origin master
 
+   git rebase is very complicated Need to master it
+
